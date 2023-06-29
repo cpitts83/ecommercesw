@@ -44,7 +44,7 @@
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="grid grid-cols-3 gap-4">
 		<div class="col-span-3">
-			<h1 class="text-lg">Salute Weight Lifters</h1>
+			<h1 class="text-lg">Salute Weight Lifters The Real</h1>
 		</div>
 		{#each products as product}
 			<ProductCard {product} />
